@@ -1,6 +1,3 @@
-from math import floor
-
-
 def heapify(Array, ElementsInHeap, Index):
     largest = Index
     leftChild = Index*2 + 1
@@ -17,27 +14,26 @@ def heapify(Array, ElementsInHeap, Index):
         heapify(Array, ElementsInHeap, largest)
 
 
-def build_max_heap(Array):
-    TotalElements = len(Array)
-    for k in range(floor(TotalElements/2), -1, -1):
+def build_max_heap(Array, TotalElements):
+    for k in range((TotalElements//2)-1, -1, -1):
         heapify(Array, TotalElements, k)
 
 
 def heapsort(Array, TotalElements):
-    build_max_heap(Array)
-    for j in range(TotalElements - 1, 0, -1):
+    build_max_heap(Array, TotalElements)
+    for j in range(TotalElements - 1, -1, -1):
         Array[0], Array[j] = Array[j], Array[0]
         heapify(Array, j, 0)
-        print("After every swap the array is\n", array)
 
 
 array = []
 Size = int(input("What is the size?\n"))
 
-for i in range(0, Size):
-    array.append(input("provide value"))
+for i in range(Size):
+    array.append(int(input("provide value")))
 
-heapsort(array, len(array))
+print(array)
+heapsort(array, Size)
 
 for i in range(0, Size):
-    print(array[i], "\n")
+    print(array[i])

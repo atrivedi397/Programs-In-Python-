@@ -1,0 +1,5 @@
+1. 2 Benefits of byte code
+2. How does import works ()?
+3. diff between script and module
+4. how does python determines data type of data
+5.

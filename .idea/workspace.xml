@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a90a447-e7b3-4b24-b66a-14316a9672fd" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/print_base_types.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Programs-In-Python-.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Programs-In-Python-.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/atrivedi.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/atrivedi.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Capitalize_First_Letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Capitalize_First_Letter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Collatz_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/Collatz_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Comma_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Comma_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Binary_search_I.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Binary_search_I.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Binary_search_R.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Binary_search_R.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Bubble_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Bubble_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/Packt_Practice/HeapSort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Packt_Practice/HeapSort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Insertion_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Insertion_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Selection_Sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/Data_Structures/Packt_Practice/Selection_Sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inventory_Display.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inventory_Display.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PyGUI.py" beforeDir="false" afterPath="$PROJECT_DIR$/PyGUI.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cat_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/cat_command.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/count_no_of_chars.py" beforeDir="false" afterPath="$PROJECT_DIR$/count_no_of_chars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile_and_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/mobile_and_email.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/printTable.py" beforeDir="false" afterPath="$PROJECT_DIR$/printTable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/regx_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/regx_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored mask="*.pyc" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,6 +17,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Programs_In_Python_$Selection_Sort.coverage" NAME="Selection_Sort Coverage Results" MODIFIED="1531679475705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Structures/Packt_Practice" />
     <SUITE FILE_PATH="coverage/Programs_In_Python_$Comma_code.coverage" NAME="Comma_code Coverage Results" MODIFIED="1530398634752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Programs_In_Python_$print_base_types.coverage" NAME="print_base_types Coverage Results" MODIFIED="1545891646314" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programs_In_Python_$Insertion_Sort.coverage" NAME="Insertion_Sort Coverage Results" MODIFIED="1531681967580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Structures/Packt_Practice" />
     <SUITE FILE_PATH="coverage/Programs_In_Python_$Collatz_sequence.coverage" NAME="Collatz_sequence Coverage Results" MODIFIED="1530396346073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programs_In_Python_$Test_file.coverage" NAME="Test_file Coverage Results" MODIFIED="1537686076340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -48,7 +31,7 @@
     <SUITE FILE_PATH="coverage/Programs_In_Python_$Array_manipulation.coverage" NAME="Array_manipulation Coverage Results" MODIFIED="1532031844417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programs_In_Python_$scrape.coverage" NAME="scrape Coverage Results" MODIFIED="1537091822119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Test_Package" />
     <SUITE FILE_PATH="coverage/Programs_In_Python_$Binary_search_I.coverage" NAME="Binary_search_I Coverage Results" MODIFIED="1530950209287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data_Structures/Packt_Practice" />
-    <SUITE FILE_PATH="coverage/Programs_In_Python_$firstgui.coverage" NAME="firstgui Coverage Results" MODIFIED="1538125749776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/Programs_In_Python_$firstgui.coverage" NAME="firstgui Coverage Results" MODIFIED="1538125749776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$" />
     <SUITE FILE_PATH="coverage/Programs_In_Python_$undercores.coverage" NAME="Heapsort Coverage Results" MODIFIED="1537043696242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programs_In_Python_$count_triplets.coverage" NAME="count_triplets Coverage Results" MODIFIED="1534446550316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Programs_In_Python_$count_no__of_chars.coverage" NAME="count_no._of_chars Coverage Results" MODIFIED="1530731348544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -148,6 +131,35 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1186705734">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="126" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="126" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Programs-In-Python-" />
@@ -163,11 +175,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/leaning_arguments.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="8" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/print_base_types.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -177,8 +198,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -235,7 +256,8 @@
         <option value="$PROJECT_DIR$/Test_Package/scrape.py" />
         <option value="$PROJECT_DIR$/Data_Structures/Packt_Practice/HeapSort.py" />
         <option value="$PROJECT_DIR$/Test_file.py" />
-        <option value="$PROJECT_DIR$/../firstgui.py" />
+        <option value="$USER_HOME$/firstgui.py" />
+        <option value="$PROJECT_DIR$/print_base_types.py" />
       </list>
     </option>
   </component>
@@ -245,7 +267,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="28" />
     <option name="width" value="700" />
     <option name="height" value="706" />
@@ -255,7 +277,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -267,6 +288,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,7 +324,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.firstgui">
+  <component name="RunManager" selected="Python.print_base_types">
     <configuration name="Binary_search_I" type="PythonConfigurationType" factoryName="Python">
       <module name="Programs-In-Python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -581,7 +603,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cat_command.py" />
-      <option name="PARAMETERS" value="$USER_HOME$/Sample2.txt $USER_HOME$/Sample.txt &gt;&gt; $USER_HOME$/Sample3.txt" />
+      <option name="PARAMETERS" value="$PROJECT_DIR$/../Sample2.txt $PROJECT_DIR$/../Sample.txt &gt;&gt; $PROJECT_DIR$/../Sample3.txt" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -721,6 +743,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="print_base_types" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Programs-In-Python-" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_base_types.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="scrape" type="PythonConfigurationType" factoryName="Python">
       <module name="Programs-In-Python-" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -764,9 +808,11 @@
       <item itemvalue="Python.mobile_and_email" />
       <item itemvalue="Python.leaning_arguments" />
       <item itemvalue="Python.firstgui" />
+      <item itemvalue="Python.print_base_types" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.print_base_types" />
         <item itemvalue="Python.firstgui" />
       </list>
     </recent_temporary>
@@ -807,7 +853,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1366" height="706" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5516569" visible="true" weight="0.21623673" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5516569" visible="true" weight="0.22003035" />
       <window_info id="Structure" order="1" sideWeight="0.5027933" side_tool="true" weight="0.21927163" />
       <window_info id="Favorites" order="2" sideWeight="0.5021739" side_tool="true" weight="0.15781488" />
       <window_info id="Event Log" order="3" sideWeight="0.44834307" side_tool="true" weight="0.32997987" />
@@ -820,12 +866,11 @@
       <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49772382" weight="0.66852885" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="1.0" />
-      <window_info anchor="right" id="Mongo Explorer" />
       <window_info anchor="right" id="Coverage" order="0" sideWeight="0.81750464" side_tool="true" weight="0.79438543" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
-      <window_info anchor="right" id="Run" order="4" sideWeight="0.18249534" weight="0.0" />
+      <window_info anchor="right" id="Run" order="4" sideWeight="0.18249534" weight="0.77996963" />
       <window_info anchor="right" id="R Packages" order="5" sideWeight="0.59962755" weight="0.32852808" />
       <window_info anchor="right" id="R Graphics" order="6" sideWeight="0.49906892" weight="0.38543248" />
       <window_info anchor="right" id="Database" order="7" sideWeight="0.49906892" weight="0.32755905" />
@@ -833,6 +878,7 @@
       <window_info anchor="right" id="Python Console" order="9" sideWeight="0.49906892" weight="0.7465857" />
       <window_info anchor="right" x="0" y="0" width="291" height="506" id="Documentation" order="10" sideWeight="0.81750464" side_tool="true" weight="0.7192716" />
       <window_info anchor="right" id="Debug" order="11" weight="0.3740516" />
+      <window_info anchor="right" id="Mongo Explorer" order="12" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1058,12 +1104,8 @@
     <entry file="file://$PROJECT_DIR$/Test_Package/simple_server">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Package/simple_server/img/1.JPG">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Test_Package/guiscrape.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Test_Package/simple_server/img/1.JPG" />
+    <entry file="file://$PROJECT_DIR$/Test_Package/guiscrape.py" />
     <entry file="file://$PROJECT_DIR$/Test_Package/scrape.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
@@ -1088,16 +1130,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../firstgui.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/firstgui.py" />
     <entry file="file://$PROJECT_DIR$/Data_Structures/Packt_Practice/HeapSort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -1109,6 +1142,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/print_base_types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="27" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
